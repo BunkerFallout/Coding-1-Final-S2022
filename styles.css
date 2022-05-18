@@ -1,6 +1,9 @@
 .a{
     background-color: lightsteelblue;
 font-family: Verdana, Geneva, Tahoma, sans-serif;
+border-style: double;
+height: 60px;
+text-align: center;
 }
 
 .h4{
@@ -14,6 +17,9 @@ font-family: Verdana, Geneva, Tahoma, sans-serif;
 .f{
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
-.body{
-    background-color: grey;
+.bo{
+  background-color:#FFFAFA;
+}
+.yh{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
